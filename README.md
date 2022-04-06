@@ -2,7 +2,7 @@
 
 The BrainWeb Series will host an invited speaker every month aiming at lively discussions and creating interconnections beyond our labs between topics of our interest around evolution, development, philosophy, art, physics, computational geometry, computational neuroscience, neuroinformatics, and more!
 
-## 25.04.2022: Alexandra de Sousa
+## [25.04.2022: Alexandra de Sousa](https://brain-web.github.io/#events)
 
 ![AlexandraDeSousa](images/BrainWebSeries_1_AlexandraDeSousa.png)
 
