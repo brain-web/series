@@ -14,7 +14,7 @@ Talks will happen in the [BrainWeb Videoconferencing space](https://brain-web.gi
 ### Events
 ### [**25.04.2022: Alexandra de Sousa**](https://brain-web.github.io/#events)
 
-![AlexandraDeSousa](images/BrainWebSeries_1_AlexandraDeSousa.png)
+![AlexandraDeSousa](images/BWS_1_AlexandraDeSousa.jpeg)
 
 <!-- <img src="./images/BrainWebSeries_1_AlexandraDeSousa.png" style="max-width:500px;"></img> -->
 
