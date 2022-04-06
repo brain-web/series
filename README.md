@@ -10,6 +10,8 @@ Past talks will be available on the [BrainWeb Youtube channel](https://www.youtu
 ## The BrainWeb Series Talks
 
 Talks will happen in the [BrainWeb Videoconferencing space](https://brain-web.github.io/videoconference).
+
+### Events
 ### [**25.04.2022: Alexandra de Sousa**](https://brain-web.github.io/#events)
 
 ![AlexandraDeSousa](images/BrainWebSeries_1_AlexandraDeSousa.png)
