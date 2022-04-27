@@ -11,8 +11,14 @@ Past talks will be available on the [BrainWeb Youtube channel](https://www.youtu
 
 Talks will happen in the [BrainWeb Videoconferencing space](https://brain-web.github.io/videoconference).
 
+
 ### Events
-### [**25.04.2022: Alexandra de Sousa**](https://brain-web.github.io/#events)
+### [**30.05.2022: Matteo Mossio**](https://brain-web.github.io/#events)
+
+![MatteoMossio](images/BWS_02_MatteoMossio.jpeg)
+
+### Past Events
+### #1 [**25.04.2022: Alexandra de Sousa**](https://brain-web.github.io/#events)
 
 ![AlexandraDeSousa](images/BWS_1_AlexandraDeSousa.jpeg)
 
