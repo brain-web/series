@@ -13,11 +13,15 @@ Talks will happen in the [BrainWeb Videoconferencing space](https://brain-web.gi
 
 
 ### Events
-### [**30.05.2022: Matteo Mossio**](https://brain-web.github.io/#events)
+### [**05.07.2022: Philipp Gunz**](https://brain-web.github.io)
+
+![PhilippGunz](images/BWS_03_PhilippGunz.jpeg)
+
+### Past Events
+### #2 [**30.05.2022: Matteo Mossio**](https://brain-web.github.io/#events)
 
 ![MatteoMossio](images/BWS_02_MatteoMossio.jpeg)
 
-### Past Events
 ### #1 [**25.04.2022: Alexandra de Sousa**](https://brain-web.github.io/#events)
 
 ![AlexandraDeSousa](images/BWS_1_AlexandraDeSousa.jpeg)
